@@ -2,4 +2,7 @@
 
 ## Objective
 Hypothesis testing is a statistical method used to determine if there is enough evidence in a sample data to draw conclusions about a population. It involves formulating two competing hypotheses, the null hypothesis (H0) and the alternative hypothesis (Ha), and then collecting data to assess the evidence.
+
 In this case we want to know, if there's any correlation between customer's education and income.
+- H0 = Education doesn't affect customer income = Species have similiar avg income.
+- H1 = Education affects customer income = Species have significantly different avg income.
